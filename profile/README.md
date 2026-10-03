@@ -1,3 +1,5 @@
+<p align="center"><img src="mark.svg" width="88" alt="ProspectAPIs compass-star logo"></p>
+
 # ProspectAPIs
 
 **Funding signals and cited prospect research over one REST API**, for sales teams and the AI agents that work for them. Every fact comes back with the source link that states it.
